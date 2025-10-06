@@ -1,0 +1,10 @@
+Arago, Eugene Daniel A.                                       
+TN35
+9/8/2025
+
+1. Which feature of Dev-C++ was new to you today?
+	- compiling and debugging is easier since all of the files are compiled together.
+2. Why do you think coding standards are important?
+	- it is important so that my code is easier to understand for the others.
+3. How did debugging help you find the problem?
+	- it helped me to identify the exact line and type of error easily.
